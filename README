@@ -1,0 +1,19 @@
+A simple HTML page with JavaScript and CSS to convert temperatures between Fahrenheit and Celsius
+This temperature converter features:
+
+Two-way conversion between Fahrenheit and Celsius
+Clean, responsive design with a modern UI
+Input validation to ensure users enter valid numbers
+Clear display of conversion results
+The conversion formulas displayed at the bottom for reference
+
+The interface is simple to use:
+
+Enter a temperature in either the Fahrenheit or Celsius field
+Click the corresponding conversion button
+See the converted result both in the opposite field and in the result section
+
+The calculations use the standard conversion formulas:
+
+Celsius to Fahrenheit: (°C × 9/5) + 32
+Fahrenheit to Celsius: (°F - 32) × 5/9
